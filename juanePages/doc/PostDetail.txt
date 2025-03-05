@@ -1,0 +1,27 @@
+📱 MOBILE
+
+🚀 Notas importantes sobre el código:
+
+📌 Separar archivos: Todo lo que diga "Interface" debe ir en un archivo aparte.
+
+⚠️ Contexto del código:
+🔹 Este código fue desarrollado en un Playground, sin acceso a Figma, por lo que algunas medidas deberán ajustarse manualmente.
+🔹 Algunas funciones dentro de la página PostDetails son solo pruebas. ¡Por favor, revísalas antes de integrarlas!
+
+🎡 Sobre el carousel:
+🔹 Los iconos actuales son de una CDN temporal. Por favor, cámbialos y usa los de la CDN correspondiente.
+
+🗺️ Sobre el mapa:
+🔹 Actualmente está como una referencia visual, pero se usará el mapa del usuario en la versión final.
+
+👤 Foto de usuario en comentarios:
+🔹 Usa el componente Profile de ShadCN en lugar de imágenes estáticas.
+
+👥 Sobre SimilarProfileList:
+🔹 La constante profiles solo es una prueba para visualizar resultados. En su caso, deberán hacer el mapeo a la base de datos para obtener la foto de perfil y el usuario real.
+
+📽️ Referencias visuales:
+🔹 Usen los videos que enviaré por WhatsApp para seguir correctamente las métricas del código. Como mencioné antes, este código fue desarrollado en un Playground, por lo que algunas referencias no están ajustadas al 100%.
+
+🚀 ¡Gracias por tomarlo en cuenta! Cualquier duda, me avisan. 😊🙌
+

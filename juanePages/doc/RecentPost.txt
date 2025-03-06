@@ -1,0 +1,21 @@
+📌 Post Recientes - Ajustes y Notas Importantes
+
+🖥️ Recuadro en PC
+🔹 El código agregado recientemente corresponde al recuadro de post recientes, que aparecerá en el lado derecho de la pantalla en la versión de escritorio.
+
+📂 Separación de Interfaces
+🔹 Todas las interfaces deben colocarse en un archivo aparte.
+🔹 En las interfaces, los datos de likes, comentarios y el tiempo de publicación aún no están mapeados correctamente; solo se muestra el número.
+
+📱 Adaptación para Mobile
+🔹 Este componente está diseñado para PC.
+🔹 En mobile, simplemente deben agregar display: none.
+🔹 En pantallas medianas (md), ya tiene display: block en el contenedor principal, por lo que no es necesario modificarlo.
+
+🛠️ Pruebas en Recent Post
+🔹 La constante e const fue agregada únicamente para pruebas y verificar que el componente funcione correctamente.
+
+👤 Foto de Usuario
+🔹 Para la imagen del usuario, asegúrense de utilizar el componente Profile de ShadCN, en lugar de imágenes estáticas.
+
+🚀 ¡Gracias por considerarlo! Cualquier duda, avísenme. 😊🙌
